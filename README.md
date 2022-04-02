@@ -30,9 +30,10 @@
 -	직원 기능 설계 및 Procedure 개발 (문의처리/문의조회/사고처리/회원정보/대여회원/대여킥보드/킥보드대여현황)
 -	DB Table, Procedure, View, Trigger, Constraint 설계 
 
+자세한 내용 : https://hissing-cabinet-5ee.notion.site/KICK-DB-a44f7eefb8a541d88071cbfa1563bf83
 
 
 <br>
 
 ## 👀 ‘KICK DB’ 구조 :
-![img10](https://user-images.githubusercontent.com/39355400/161201685-0b479319-143a-465d-832b-2308ab1dd816.PNG)
+![img40](https://user-images.githubusercontent.com/39355400/161372824-9faffc3b-39b7-4698-a7d7-f5ebceee4ac2.PNG)
