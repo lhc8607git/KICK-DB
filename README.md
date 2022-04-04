@@ -27,7 +27,7 @@
 ## ⚙️ 설계 및 개발 내용 :
 -	서비스 기능 조사 및 설계
 -	회원 기능 설계 및 Procedure 개발 (가입/가입약관동의/로그인/아이디찾기/비밀번호찾기+재설정/카드등록/정보조회/카드조회/문의하기(1:1)/사고접수)
--	직원 기능 설계 및 Procedure 개발 (문의처리/문의조회/사고처리/회원정보/대여회원/대여킥보드/킥보드대여현황)
+-	직원 기능 설계 및 Procedure 개발 (문의처리/문의조회/사고처리/회원정보/대여회원등록/대여킥보드등록/킥보드대여현황)
 -	DB Table, Procedure, View, Trigger, Constraint 설계 
 
 자세한 내용 : https://hissing-cabinet-5ee.notion.site/KICK-DB-a44f7eefb8a541d88071cbfa1563bf83
